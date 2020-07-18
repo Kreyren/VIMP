@@ -23,7 +23,7 @@
 * `dd` -> Delete a line
 * `w` -> goes forward to the next word (first character)
 * `e` -> goes forward to the next word (last character)
-* `w` -> goes backwords to the previous word (first character)
+* `b` -> goes backwords to the previous word (first character)
 * `p` -> puts the deleted line of chars in the next line where cursor is (i.e `10` + `dd` + `p`)
 * `r` + `X` -> to replace a character with X
 * `c` + `e` -> deletes characters till end aka a word for replacement with new characters
