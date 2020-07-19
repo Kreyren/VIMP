@@ -1,7 +1,10 @@
-# Vim
+# Useful Vim Key Bindings
 
 ## General
 `X` -> number value. All of these commands can work with multiple times. i.e `5` + `dd`.
+* `vimtutor` -> 30 min interactive course for basic vim commands.
+* `help` -> Verbose vim docs.
+* `SHIFT` + `:` -> commandline command
 * `h` -> move left (cursor)
 * `j` -> move down (cursor)
 * `k` -> move up (cursor)
