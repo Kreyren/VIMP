@@ -3,16 +3,16 @@
 ## General
 `X` -> number value. All of these commands can work with multiple times. i.e `5` + `dd`.
 * `vimtutor` -> 30 min interactive course for basic vim commands.
-* `help` -> Verbose vim docs.
-* `SHIFT` + `:` -> commandline command
+* `help` -> Verbose vim docs. (INSERT MODE)
+* `SHIFT` + `:` -> commandline command (INSERT MODE)
 * `h` -> move left (cursor)
 * `j` -> move down (cursor)
 * `k` -> move up (cursor)
 * `l` -> move right (cursor)
-* `q`, `quit`, `x`, `exit` -> quit vim
-* `SHIFT` + `ZZ` -> Quit
+* `q`, `quit`, `x`, `exit` -> quit vim (INSERT MODE)
+* `SHIFT` + `ZZ` -> Quit (INSERT MODE)
 * `!` -> don't save changes. (example: `q!`)
-* `w`, `write` -> write changes
+* `w`, `write` -> write changes (INSERT MODE)
 * `gg` -> takes to the first line (cursor)
 * `shift` + `G` -> takes to the last line (cursor)
 * `i` -> insert mode (to type text)
